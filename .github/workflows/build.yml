@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.special.strike.shooter.sss:"
+          description: "name.package.com:"
           required: true
 
 jobs:
