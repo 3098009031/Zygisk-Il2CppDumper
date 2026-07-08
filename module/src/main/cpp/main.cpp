@@ -1,3 +1,6 @@
+#define DUMP_FULL_LIBIL2CPP 1
+#define DUMP_METADATA_FILE 1
+
 #include <cstring>
 #include <thread>
 #include <fcntl.h>
